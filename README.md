@@ -3,11 +3,11 @@ Automated tests for ReqRes API endpoints using Python and unittest, covering CRU
 
 "Test cases ensure API reliability and functionality, with clear documentation for setup and execution steps." <br>
 
-#ReqRes API Automation Tests<br>
+**ReqRes API Automation Tests<br>**
 
 This repository contains automated tests for testing ReqRes API endpoints using Python and the unittest module.<br>
 
-#Chosen Endpoints<br>
+**Chosen Endpoints<br>**
 
 The following endpoints from ReqRes are tested in this repository:<br>
 
@@ -23,14 +23,14 @@ DELETE /api/users/{id}: Delete a user by ID.
 
 POST /api/login: Login endpoint for authentication.
 
-#Prerequisites
+**Prerequisites**
 
 Before running the tests, ensure you have the following installed:
 
 
 requests library (install using pip install requests)
 
-#Setup Instructions
+**Setup Instructions**
 
 Clone the repository to your local machine:
 
@@ -44,7 +44,7 @@ Install the required Python packages:
 
 pip install -r requirements.txt
 
-#Test Execution
+**Test Execution**
 
 Run the automated tests using the following command:
 
@@ -53,7 +53,7 @@ python reqres_tests.py
 
 The test results will be displayed in the terminal or command prompt.
 
-#Testing Procedures
+**Testing Procedures**
 
 The automated tests cover various scenarios for interacting with the ReqRes API, including:
 
