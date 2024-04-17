@@ -1,15 +1,19 @@
 # Decentro_Task
-Automated tests for ReqRes API endpoints using Python and unittest, covering CRUD operations, authentication, and error handling." "Test cases ensure API reliability and functionality, with clear documentation for setup and execution steps."
-ReqRes API Automation Tests
-This repository contains automated tests for testing ReqRes API endpoints using Python and the unittest module.
+Automated tests for ReqRes API endpoints using Python and unittest, covering CRUD operations, authentication, and error handling." "Test cases ensure API reliability and functionality, with clear documentation for setup and execution steps." <br>
+ReqRes API Automation Tests<br>
+This repository contains automated tests for testing ReqRes API endpoints using Python and the unittest module.<br>
 
-Chosen Endpoints
-The following endpoints from ReqRes are tested in this repository:
+Chosen Endpoints<br>
+The following endpoints from ReqRes are tested in this repository:<br>
 
 GET /api/users: Get a list of users.
+
 GET /api/users/{id}: Get a single user by ID.
+
 POST /api/users: Create a new user.
+
 PUT /api/users/{id}: Update user information by ID.
+
 DELETE /api/users/{id}: Delete a user by ID.
 POST /api/login: Login endpoint for authentication.
 Prerequisites
