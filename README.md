@@ -63,7 +63,6 @@ POST requests to create users
 
 PUT requests to update user information
 
-DELETE requests to delete users
 
 Handling invalid payloads, missing fields, and non-existent resources
 
