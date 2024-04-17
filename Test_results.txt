@@ -1,0 +1,51 @@
+PS C:\Users\Dell\Downloads\API> python reqres_tests.py                                                       
+.............
+----------------------------------------------------------------------
+Ran 13 tests in 7.845s
+
+OK
+PS C:\Users\Dell\Downloads\API> python reqres_tests.py
+
+Test Case Results:
+test_create_user: Pass
+.
+Test Case Results:
+test_create_user_invalid_payload: Pass
+.
+Test Case Results:
+test_create_user_missing_fields: Pass
+.
+Test Case Results:
+test_delete_user: Pass
+.
+Test Case Results:
+test_get_nonexistent_user: Pass
+.
+Test Case Results:
+test_get_single_user: Pass
+.
+Test Case Results:
+test_get_user_list: Pass
+.
+Test Case Results:
+test_login_successful: Pass
+.
+Test Case Results:
+test_login_unsuccessful: Pass
+.
+Test Case Results:
+test_update_user: Pass
+.
+Test Case Results:
+test_update_user_invalid_id: Pass
+.
+Test Case Results:
+test_update_user_invalid_payload: Pass
+.
+Test Case Results:
+test_update_user_missing_payload: Pass
+.
+----------------------------------------------------------------------
+Ran 13 tests in 5.440s
+
+OK
